@@ -1,1 +1,2 @@
-# Leetcode-Problems.
+# Competition programming
+problem solver from multiple platforms.
