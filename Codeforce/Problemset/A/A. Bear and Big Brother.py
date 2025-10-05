@@ -2,7 +2,7 @@
 
 def main():
     """Main function"""
-    bears: list = list(map(int, input().split()))
+    bears = list(map(int, input().split()))
     c: int = 0
     while (bears[0] <= bears[1]):
         c += 1
