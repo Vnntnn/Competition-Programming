@@ -16,11 +16,14 @@ int main() {
             }
             sum *= arr[i];
         }
-        // if (sum <= 0) {
-        //     while (1) {
-        //     }
-        // }
-        cout << sum << endl;
+        if (sum <= 0) {
+            while (1) {
+                /* 
+                * somethings gonna be written in here *
+                */
+            }
+        }
+        cout << cnt << endl;
         cnt = 0;
     }
     return 0;
